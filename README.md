@@ -6,7 +6,6 @@ A data science enthusiast passionate about solving real-world problems using dat
 - **Currently exploring:** Deep Learning, NLP, Convolutional Neural Networks, and Data Storytelling.
 
 ## My Projects
-Here are a few of my favorite projects:
 
 ### [CubeSat Image Classification](https://github.com/Lilian-chii/CubeSat-Image-Classification)
 > This project involves a Convolutional Neural Network (CNN) I developed to classify astronomical images captured by nanosatellites in space. The model is designed to automatically identify and select the most scientifically valuable images directly onboard the satellite, reducing the need to transmit all raw images back to Earth. This approach significantly improves efficiency by lowering transmission time and costs while ensuring researchers receive high-quality data.
