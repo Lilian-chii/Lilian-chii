@@ -1,9 +1,10 @@
 ## I'm Lilian
 A data science enthusiast passionate about solving real-world problems using data.
 
-- I enjoy uncovering insights from data, and building predictive models.
+
 - **My Tools:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, TensorFlow, SQL, Jupyter.
 - **Currently exploring:** Deep Learning, NLP, Convolutional Neural Networks, and Data Storytelling.
+
 
 ## My Projects
 
