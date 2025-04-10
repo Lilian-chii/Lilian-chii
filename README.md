@@ -12,7 +12,7 @@ Here are a few of my favorite projects:
 ### [CubeSat Image Classification](link-to-repo)
 > This project involves a Convolutional Neural Network (CNN) I developed to classify astronomical images captured by nanosatellites in space. The model is designed to automatically identify and select the most scientifically valuable images directly onboard the satellite, reducing the need to transmit all raw images back to Earth. This approach significantly improves efficiency by lowering transmission time and costs while ensuring researchers receive high-quality data.
 
-### ### [Kenya Politics Poll](link-to-repo)
+### [Kenya Politics Poll](https://github.com/Lilian-chii/DS)
 > This project involved sentiment analysis using natural language processing (NLP). I analyzed data extracted from Twitter comments to gauge public sentiment toward leading politicians in Kenya during the election period. The insights gained were both valuable and revealing.
 
 
