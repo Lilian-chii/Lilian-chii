@@ -1,15 +1,14 @@
 ## I'm Lilian
 A data science enthusiast passionate about solving real-world problems using data.
 
-## About me
 - I enjoy uncovering insights from data, and building predictive models.
-- My Tools: Python, Pandas, NumPy, Scikit-learn, Matplotlib, TensorFlow, SQL, Jupyter.
-- Currently exploring: Deep Learning, NLP, Convolutional Neural Networks, and Data Storytelling.
+- **My Tools:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, TensorFlow, SQL, Jupyter.
+- **Currently exploring:** Deep Learning, NLP, Convolutional Neural Networks, and Data Storytelling.
 
 ## My Projects
 Here are a few of my favorite projects:
 
-### [CubeSat Image Classification](link-to-repo)
+### [CubeSat Image Classification](https://github.com/Lilian-chii/CubeSat-Image-Classification)
 > This project involves a Convolutional Neural Network (CNN) I developed to classify astronomical images captured by nanosatellites in space. The model is designed to automatically identify and select the most scientifically valuable images directly onboard the satellite, reducing the need to transmit all raw images back to Earth. This approach significantly improves efficiency by lowering transmission time and costs while ensuring researchers receive high-quality data.
 
 ### [Kenya Politics Poll](https://github.com/Lilian-chii/DS)
