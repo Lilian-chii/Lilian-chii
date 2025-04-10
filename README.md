@@ -15,6 +15,6 @@ Here are a few of my favorite projects:
 > This project involved sentiment analysis using natural language processing (NLP). I analyzed data extracted from Twitter comments to gauge public sentiment toward leading politicians in Kenya during the election period. The insights gained were both valuable and revealing.
 
 
-## 📫 How to reach me
+
 - LinkedIn: (https://www.linkedin.com/in/lilian-wangechi-a1260321b/)
 - Email: (wangarilwangeci@gmail.com)
